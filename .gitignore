@@ -1,0 +1,18 @@
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+application-local.properties
+application-local.yml
+
+# Java e Maven
+target/
+*.class
+
+# IDE e sistema
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
