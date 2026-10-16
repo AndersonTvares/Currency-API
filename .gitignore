@@ -1,10 +1,10 @@
-
 # Configurações locais e segredos
 .env
 .env.*
 !.env.example
 application-local.properties
 application-local.yml
+application.properties
 
 # Java e Maven
 target/
